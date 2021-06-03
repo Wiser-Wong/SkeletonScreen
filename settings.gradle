@@ -1,0 +1,3 @@
+include ':skeleton'
+include ':app'
+rootProject.name = "SkeletonScreen"
