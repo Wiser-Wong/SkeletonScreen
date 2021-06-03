@@ -7,6 +7,18 @@
 ![images](https://github.com/Wiser-Wong/SkeletonScreen/blob/master/images/skeleton_part_view.gif)
 ![images](https://github.com/Wiser-Wong/SkeletonScreen/blob/master/images/skeleton_whole_view.gif)
 
+## 环境配置
+      allprojects {
+         repositories {
+            ...
+            maven { url 'https://jitpack.io' }
+         }
+      }
+
+      dependencies {
+	        implementation 'com.github.Wiser-Wong:SkeletonScreen:Tag'
+	   }
+   
 ## 操作指南
    绑定RecycleView   
     
