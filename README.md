@@ -16,7 +16,7 @@
       }
 
       dependencies {
-	        implementation 'com.github.Wiser-Wong:SkeletonScreen:Tag'
+	        implementation 'com.github.Wiser-Wong:SkeletonScreen:1.0.0'
 	   }
    
 ## 操作指南
